@@ -61,7 +61,7 @@ GOLD:   AM: -1.01E03    LM: -4.54E01    Total: -1.06E03 [his, leadership, has, n
 GUESS:  AM: -1.37E03    LM: -4.54E01    Total: -1.42E03 [exploration, is, mainly, for, lighter, crudes]
 GOLD:   AM: -1.37E03    LM: -4.54E01    Total: -1.42E03 [exploration, is, mainly, for, lighter, crudes]
 
-GUESS:  AM: -3.06E03    LM: -1.25E02    Total: -3.18E03 [but, a, treasury, official, in, washington, said, these, are, famous, deals, indicating, their, well, known, to, tax, authorities]
+GUESS:  AM: -3.06E03    LM: -1.25E02    Total: -3.18E03 [but, a, treasury, official, in, washington, said, these, are, famous, deals, indicating, they, are, well, known, to, tax, authorities]
 GOLD:   AM: -3.06E03    LM: -1.25E02    Total: -3.18E03 [but, a, treasury, official, in, washington, said, these, are, famous, deals, indicating, they, are, well, known, to, tax, authorities]
 
 GUESS:  AM: -3.28E03    LM: -1.42E02    Total: -3.42E03 [the, u., s., already, has, some, catching, up, to, do, with, what, 's, available, the, phone, customers, in, countries, with, fewer, restrictions, on, the, industry]
