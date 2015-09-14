@@ -199,7 +199,7 @@ GOLD:   AM: -2.18E03    LM: -8.67E01    Total: -2.26E03 [when, the, subordinate,
 GUESS:  AM: -1.04E03    LM: -2.38E01    Total: -1.06E03 [some, are, n't, so, sure]
 GOLD:   AM: -1.04E03    LM: -2.38E01    Total: -1.06E03 [some, are, n't, so, sure]
 
-GUESS:  AM: -1.95E03    LM: -9.31E01    Total: -2.05E03 [inevitably, one, child, asks, how, digit, get, off, the, tape]
+GUESS:  AM: -1.96E03    LM: -8.79E01    Total: -2.05E03 [inevitably, one, child, asks, how, did, to, get, off, the, tape]
 GOLD:   AM: -1.96E03    LM: -8.94E01    Total: -2.05E03 [inevitably, one, child, asks, how, did, you, get, off, the, tape]
 
 GUESS:  AM: -1.83E03    LM: -6.35E01    Total: -1.89E03 [others, that, have, the, opposite, problem, wasted, money]
@@ -250,7 +250,7 @@ GOLD:   AM: -1.87E03    LM: -8.38E01    Total: -1.95E03 [at, two, p., m., he, sh
 GUESS:  AM: -3.44E03    LM: -1.31E02    Total: -3.57E03 [a, spokesman, for, olympia, and, york, said, it, has, n't, any, plans, to, increase, its, campeau, stake, fallen, that, debenture, purchase]
 GOLD:   AM: -3.45E03    LM: -1.26E02    Total: -3.57E03 [a, spokesman, for, olympia, and, york, said, it, has, n't, any, plans, to, increase, its, campeau, stake, following, the, debenture, purchase]
 
-GUESS:  AM: -1.35E03    LM: -4.08E01    Total: -1.40E03 [for, just, an, investor, in, campeau]
+GUESS:  AM: -1.35E03    LM: -4.12E01    Total: -1.40E03 [we, 're, just, an, investor, in, campeau]
 GOLD:   AM: -1.35E03    LM: -4.12E01    Total: -1.40E03 [we, 're, just, an, investor, in, campeau]
 
 GUESS:  AM: -3.32E03    LM: -1.13E02    Total: -3.43E03 [the, federated, acquisition, created, an, opportunity, for, olympia, and, york, to, increase, its, ownership, the, spokesman, said]
